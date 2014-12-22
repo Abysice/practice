@@ -11,7 +11,6 @@ const int size = 100;
 
 int findmiddle(std::list<int> &mylist);
 int thirdlast(std::list<int> &mylist);
-bool findifloop(std::list<int> mylist);
 
 int main(int argc, char** argv)
 {
